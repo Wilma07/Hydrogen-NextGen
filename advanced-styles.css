@@ -1,0 +1,14 @@
+
+    /* Advanced styles for website */
+    .gallery img {
+        width: 100%;
+        max-width: 300px;
+        margin: 10px;
+    }
+    .faq h2 {
+        color: #333;
+    }
+    .faq p {
+        margin-left: 20px;
+    }
+    

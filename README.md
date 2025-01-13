@@ -1,1 +1,8 @@
-Hydrogen NextGen focuses on developing advanced hydrogen energy technology. We provide clean, efficient, and eco-friendly fuel solutions, reducing dependency on fossil fuels. Our clients range from industrial sectors to transportation systems.
+
+    # Website Upgrade
+    This upgrade adds the following features:
+    - Dynamic JavaScript functionalities (script.js)
+    - A gallery page (gallery.html)
+    - A FAQ page (faq.html)
+    - Enhanced styles (advanced-styles.css)
+    
